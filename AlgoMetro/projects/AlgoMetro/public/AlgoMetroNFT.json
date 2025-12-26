@@ -1,0 +1,10 @@
+{
+  "name": "AlgoMetro Ticket",
+  "description": "Official AlgoMetro bus ticket - Your pass to ride the blockchain bus!",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreih5aznjvttude6c3wbvqeebb6rlx5wkbzyppv7garjiubll2ceym4",
+  "decimals": 0,
+  "properties": {
+    "type": "Bus Ticket",
+    "service": "AlgoMetro Express"
+  }
+}
